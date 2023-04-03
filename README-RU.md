@@ -280,7 +280,7 @@ public static int Plus(int x, int y)
     * Откройте вкладку "Changes" в [Team Explorer](https://docs.microsoft.com/ru-ru/visualstudio/ide/reference/team-explorer-reference).
     * Нажмите правой кнопкой мыши на измененном файле.
     * Нажмите пункт меню "Compare with Unmodified", чтобы открыть окно сравнения.
-* [Подготовьте изменения](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/commits#stage-your-changes) и [создайте коммит](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/commits#create-a-commit).
+* [Подготовьте изменения](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/commits#how-to-stage-your-changes) и [создайте коммит](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/commits#how-to-create-a-commit).
 * Поделитесь вашими изменениями, [отправив их на удаленный репозиторий](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/pushing).
 
 

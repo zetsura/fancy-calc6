@@ -278,7 +278,7 @@ Also, you can use [Sonar rule knowledge database](https://rules.sonarsource.com/
     * Open the "Changes" view in [Team Explorer](https://docs.microsoft.com/en-us/visualstudio/ide/reference/team-explorer-reference).
     * Right click on a modified file.
     * Click on "Compare with Unmodified" menu item to open a comparison window.
-* [Stage your changes](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits#stage-your-changes) and [create a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits#create-a-commit).
+* [Stage your changes](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits#how-to-stage-your-changes) and [create a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits#how-to-create-a-commit).
 * Share your changes by [pushing them to a remote repository](https://docs.microsoft.com/en-us/azure/devops/repos/git/pushing).
 
 
