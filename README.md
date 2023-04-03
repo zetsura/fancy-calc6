@@ -214,7 +214,7 @@ public static int Sum(int x1, int x2, int x3)
 
 ![Rebuild Solution](images/rebuild-solution.png)
 
-36. Open the "Error List" pane. The pane has two warnings.
+36. Open the "Error List" pane. The pane has few warnings; 3 warnings are for line 11.
     * Click on the "View\Error List" menu item.
     * Or use the default shortcut - _Ctrl+W, E_.
 
