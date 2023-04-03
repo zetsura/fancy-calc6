@@ -7,23 +7,7 @@ Beginner level task to practice debugging unit tests in Visual Studio. Translati
 
 We recommend you to install [SonarLint extension for Visual Studio](https://www.sonarlint.org/visualstudio). This extension is very useful during the development because it detects code quality and code security issues on the fly and highlights these issues in the Visual Studio code editor.
 
-1. Open "Extensions" window by clicking on the _Extensions\Manage Extensions_ menu item.
-
-![Manage Extensions](images/vs-manage-extensions.png)
-
-2. Search for "SonarLint" extension in the search bar and download the extension.
-
-![Extensions Window](images/vs-extensions.png)
-
-3. Visual Studio needs restart. Close the application.
-
-![Restart Visual Studio](images/vs-restart.png)
-
-4. An extension installer window will appear. Click on "Modify" button.
-
-![SonarLint Installer](images/sonar-lint-installer.png)
-
-5. When the "SonarLint" extension will be installed, start the application again. Now Visual Studio will highlignt the issues detected by Sonar in the code editor window by wavy underline.
+When the "SonarLint" extension will be installed, start the application again. Now Visual Studio will highlignt the issues detected by Sonar in the code editor window by wavy underline.
 
 ![SonarLint Warnings in Visual Studio](images/vs-warnings.png)
 
